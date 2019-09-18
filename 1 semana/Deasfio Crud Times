@@ -21,7 +21,7 @@ Menu:
 •	Uma pessoa não pode ficar sem time
 •	Nome do time tem que ser maior que 3 caracteres
 •	Nome da pessoa tem que ser maior que 3 caracteres
-•	Quando eu sair do sistema e iniciar de novo, os times e pessoas devem permanecer (sugestão usar txt para salvar os mesmos (google))
+•	Quando eu sair do sistema e iniciar de novo, os times e pessoas devem permanecer (sugestão usar csv,txt para salvar os mesmos (google))
 ### O que vai ser “avaliado”:
 •	Disseminação de conhecimento
 •	Engajamento
