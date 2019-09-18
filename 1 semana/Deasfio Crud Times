@@ -1,0 +1,30 @@
+### 17-09-2019 (1ª quarta-feira)
+
+### Desafio
+
+Foram perdidos todos os dados dos times e dos membros da Invillia. 
+Vocês deverão fazer um sistema, em console, que cadastre os times e as pessoas.
+### Objetivo
+Fazer um console que faça um CRUD de Times e Pessoas.
+Menu:
+1 – Times
+2 – Pessoas
+3 – Sair
+			SubMenu:
+				1 – Adicionar
+				2 – Remover
+				3 – Alterar
+				4 – Listar
+				5 – Voltar ao menu principal
+
+### Regras:
+•	Uma pessoa não pode ficar sem time
+•	Nome do time tem que ser maior que 3 caracteres
+•	Nome da pessoa tem que ser maior que 3 caracteres
+•	Quando eu sair do sistema e iniciar de novo, os times e pessoas devem permanecer (sugestão usar txt para salvar os mesmos (google))
+### O que vai ser “avaliado”:
+•	Disseminação de conhecimento
+•	Engajamento
+•	Flexibilidade
+•	Lógica
+•	MVP
